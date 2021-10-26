@@ -1,0 +1,13 @@
+
+.employee_input {
+   padding: 8px 12px;
+    border: 1px solid rgba(0,0,0,0.1);
+    width: 100%;
+    border-radius: 4px;
+}
+
+.employee_input:focus{
+    outline: none;
+    border: 1px solid rgba(0,0,0,0.1);
+    box-shadow: 0 1px 3px 3px rgba(0,0,0,0.05);
+}
